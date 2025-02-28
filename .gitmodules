@@ -1,0 +1,3 @@
+[submodule "lib/Adafruit_CircuitPython_SD"]
+	path = lib/Adafruit_CircuitPython_SD
+	url = https://github.com/adafruit/Adafruit_CircuitPython_SD.git
